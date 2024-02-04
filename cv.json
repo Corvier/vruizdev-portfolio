@@ -1,7 +1,7 @@
 {
 	"basics": {
-		"name": "Victor Jose Ruiz Herrera",
-		"label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+		"name": "Víctor Jose Ruiz Herrera",
+		"label": "Backend Developer con más de 3 años de experiencia & diseñador amateur",
 		"image": "me.jpg",
 		"email": "victor.ruiz.herrera@outlook.com",
 		"phone": "+505 76199493",
@@ -17,18 +17,18 @@
 		"profiles": [
 			{
 				"network": "LinkedIn",
-				"username": "midudev",
-				"url": "https://linkedin.com/in/midudev"
-			},
-			{
-				"network": "X",
-				"username": "midudev",
-				"url": "https://x.com/midudev"
+				"username": "Víctor Ruiz",
+				"url": "https://www.linkedin.com/in/vruizdev"
 			},
 			{
 				"network": "GitHub",
-				"username": "midudev",
-				"url": "https://github.com/midudev"
+				"username": "Víctor Ruiz",
+				"url": "https://github.com/vruizdev"
+			},
+			{
+				"network": "X",
+				"username": "Víctor Ruiz",
+				"url": "https://x.com/vruizdev"
 			}
 		]
 	},
