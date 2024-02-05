@@ -1,17 +1,17 @@
 {
 	"basics": {
 		"name": "Víctor Jose Ruiz Herrera",
-		"label": "Backend Developer con más de 3 años de experiencia & diseñador amateur",
+		"label": "Full-Stack Developer con más de 3 años de experiencia & desarrollador de procesos automatizados mediante RPA, destaco en el envío de correos en lotes, y la inserción/extracción de datos desde la web implementando Web Scrapping.",
 		"image": "me.jpg",
 		"email": "victor.ruiz.herrera@outlook.com",
 		"phone": "+505 76199493",
 		"url": "https://midu.dev",
-		"summary": "+3 años de experiencia como Desarrollador Web. Actualmente soy desarrollador web full-stack. Vivo en Managua, Nicaragua. He trabajado en diferentes entornos: desde acelerar el desarrollos de proyectos web hasta liderando equipos de empresas enfocadas en automatizaciones robóticas de procesos.",
+		"summary": "+2 años de experiencia como Full-Stack Developer. Actualmente soy desarrollador web full-stack. Vivo en Managua, Nicaragua. He trabajado en diferentes entornos: desde crear/acelerar el desarrollos de proyectos web hasta liderando equipos de empresas enfocadas en automatizaciones robóticas de procesos.",
 		"location": {
 			"address": "",
 			"postalCode": "16300",
 			"city": "Managua",
-			"countryCode": "ES",
+			"countryCode": "NI",
 			"region": "Nicaragua"
 		},
 		"profiles": [
@@ -81,16 +81,26 @@
 	],
 	"education": [
 		{
-			"institution": "Universitat Oberta de Catalunya",
-			"url": "https://www.uoc.edu/portal/es/index.html",
-			"area": "Ingeniero de Software",
-			"studyType": "Bachelor",
-			"startDate": "2003-01-01",
-			"endDate": "2009-01-01",
-			"score": "4.0",
-			"courses": [
-				"DB1101 - Basic SQL"
-			]
+			"institution": "Universidad Nacional de Ingeniería",
+			"url": "https://www.uni.edu.ni",
+			"area": "Ingeniería en Computación, enfocado en desarrollo de software",
+			"studyType": "Ingeniería",
+			"startDate": "2017-01-02",
+			"endDate": "2021-01-02"
+		},
+		{
+			"institution": "Harvard University",
+			"url": "https://cs50.harvard.edu/web",
+			"area": "CS50's Web Programming with Python and JavaScript",
+			"studyType": "Course",
+			"startDate": "2021-01-02"
+		},
+		{
+			"institution": "Harvard University",
+			"url": "https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science",
+			"area": "CS50's Introduction to Computer Science",
+			"studyType": "Course",
+			"startDate": "2018-01-02"
 		}
 	],
 	"awards": [
